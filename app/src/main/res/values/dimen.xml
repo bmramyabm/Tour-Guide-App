@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="padding_left_in_list">16dp</dimen>
+    <dimen name="layout_height_zero">0dp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_title_detail">32sp</dimen>
+    <dimen name="text_size_address_detail">16sp</dimen>
+    <dimen name="text_size_description">20sp</dimen>
+    <dimen name="padding_top_buttons">32dp</dimen>
+    <dimen name="margin_top_title">8dp</dimen>
+    <dimen name="text_size_address">14sp</dimen>
+</resources>

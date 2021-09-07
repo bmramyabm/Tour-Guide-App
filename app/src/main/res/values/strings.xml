@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_attractions">Places to VISIT</string>
+    <string name="category_restaurants">Food </string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_stay">Stay</string>
+    <string name="main_title">TourGuideAtlanta</string>
+    <string name="Aquarium">Georgia Aquarium</string>
+    <string name="childrensmusuem">Childrens Museum</string>
+    <string name="CocaCola">World Of CocaCola</string>
+    <string name="garden">Atlanta Botanical Garden</string>
+    <string name="restaurant1">Mary Mac\'s Tea Room</string>
+    <string name="zoo">Zoo Atlanta</string>
+    <string name="cnn">CNN Studio Tours</string>
+    <string name="sixFlag">Six Flags Over Georgia</string>
+    <string name="delta">Delta Flight Museum</string>
+    <string name="hotel1">Hyatt Regency Atlanta</string>
+    <string name="hotel2">The Westin Peachtree Plaza</string>
+    <string name="hotel3">The Candler Hotel Atlanta</string>
+    <string name="hotel4">Embassy Suites</string>
+    <string name="hotel5"><![CDATA[Hampton Inn & Suites]]></string>
+    <string name="restaurant2">Varasity</string>
+    <string name="restaurant3">Vortexatl</string>
+    <string name="restaurant4">The General Muir</string>
+    <string name="restaurant5">Holeman Finch</string>
+    <string name="mall1">Atlantic Station</string>
+    <string name="mall2">Lenox Square</string>
+    <string name="mall3">Cumberland Mall</string>
+    <string name="mall4">Greenbriar Mall</string>
+    <string name="mall5">Ponce City Market</string>
+    <string name="aquariumweb">https://www.georgiaaquarium.org/</string>
+    <string name="childrensmusuemweb">https://childrensmuseumatlanta.org/</string>
+    <string name="CocaColaweb">https://www.worldofcoca-cola.com/</string>
+    <string name="gardenweb">https://atlantabg.org/</string>
+    <string name="zooweb">https://atlantabg.org/</string>
+    <string name="cnnweb">https://center.cnn.com/</string>
+    <string name="sixflagweb">https://www.sixflags.com/overgeorgia</string>
+    <string name="deltaweb">https://www.deltamuseum.org/</string>
+    <string name="restaurant1website">https://marymacs.com/</string>
+    <string name="restaurant2website">https://thevarsity.com/</string>
+    <string name="restaurant3website">https://thevortexatl.com/</string>
+    <string name="restaurant4website">https://www.thegeneralmuir.com/</string>
+    <string name="restaurant5website">https://www.holeman-finch.com/</string>
+    <string name="mall1website">https://atlanticstation.com/</string>
+    <string name="mall2website">https://www.simon.com/mall/lenox-square</string>
+    <string name="mall3website">https://www.cumberlandmall.com/en.html</string>
+    <string name="mall4website">https://shopgreenbriar.com/</string>
+    <string name="mall5website">https://poncecitymarket.com/</string>
+    <string name="hotel1website">https://www.hyatt.com/en-US/hotel/georgia/hyatt-regency-atlanta/</string>
+    <string name="hotel2website">https://www.marriott.com/hotels/travel/atlpl-the-westin-peachtree-plaza-atlanta/</string>
+    <string name="hotel3website">https://www.hilton.com/en/hotels/atlcdqq-the-candler-hotel-atlanta/</string>
+    <string name="hotel4website">https://www.hilton.com/en/hotels/atlpwes-embassy-suites-atlanta-perimeter-center/</string>
+    <string name="hotel5website">https://www.hilton.com/en/hotels/atlpshx-hampton-suites-atlanta-perimeter-dunwoody/</string>
+
+</resources>
